@@ -1,6 +1,6 @@
 // Example API endpoint for getting all books
 
-const pool = require('./database');
+const pool = require('./database.js');
 
 
 // GET all books
